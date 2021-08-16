@@ -2,7 +2,7 @@
 
 A JS tool for testing and stacking image URL arguments for sites WordPress.com, WPVIP, and Jetpack sites.
 
-Works on all WP image URLs hosted by Automattic's /upload/ folders
+Works on all WP image URLs hosted by Automattic, including VIP /upload/ paths.
 
 Use this instance live: https://itstallulah.github.io/Photon-Argument-Wizard/
 
