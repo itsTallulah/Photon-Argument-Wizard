@@ -7,3 +7,5 @@ Works on all WP image URLs hosted by Automattic's /upload/ folders
 Use this instance live: https://itstallulah.github.io/Photon-Argument-Wizard/
 
 Consider this an extension of the https://developer.wordpress.com/docs/photon/api/ docs.
+
+An Automattic Sorcery
