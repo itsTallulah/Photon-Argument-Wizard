@@ -64,7 +64,7 @@ input {
   font-size: 10px;
   vertical-align: bottom;
   color: #555;
-  min-width: 550px;
+  /* min-width: 550px; */
 }
 
 #image {
